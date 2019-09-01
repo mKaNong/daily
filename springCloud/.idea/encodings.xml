@@ -3,6 +3,10 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spingCloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud-commom" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud-item" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud-item/springCloud-interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/springCloud-item/springCloud-service" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/springCloud-zuul" charset="UTF-8" />
   </component>
 </project>

@@ -7,6 +7,9 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="spingCloud-eureka" />
+        <module name="springCloud-commom" />
+        <module name="springCloud-interface" />
+        <module name="springCloud-service" />
         <module name="springCloud-zuul" />
       </profile>
     </annotationProcessing>

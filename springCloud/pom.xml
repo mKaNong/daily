@@ -11,6 +11,8 @@
     <modules>
         <module>spingCloud-eureka</module>
         <module>springCloud-zuul</module>
+        <module>springCloud-item</module>
+        <module>springCloud-commom</module>
     </modules>
 
     <name>springCloud</name>
